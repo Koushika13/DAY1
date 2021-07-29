@@ -1,0 +1,16 @@
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\bin\Debug\net5.0\CaseStudy1.exe
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\bin\Debug\net5.0\CaseStudy1.deps.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\bin\Debug\net5.0\CaseStudy1.runtimeconfig.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\bin\Debug\net5.0\CaseStudy1.runtimeconfig.dev.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\bin\Debug\net5.0\CaseStudy1.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\bin\Debug\net5.0\ref\CaseStudy1.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\bin\Debug\net5.0\CaseStudy1.pdb
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.csproj.AssemblyReference.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.AssemblyInfoInputs.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.AssemblyInfo.cs
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.csproj.CoreCompileInputs.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\ref\CaseStudy1.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.pdb
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\CaseStudy1\obj\Debug\net5.0\CaseStudy1.genruntimeconfig.cache

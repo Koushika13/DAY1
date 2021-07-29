@@ -1,0 +1,16 @@
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.exe
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.deps.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.runtimeconfig.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.runtimeconfig.dev.json
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\bin\Debug\net5.0\ref\prjFirstApplication.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.pdb
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.csproj.AssemblyReference.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.AssemblyInfoInputs.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.AssemblyInfo.cs
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\ref\prjFirstApplication.dll
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.pdb
+C:\Users\koushika bandineni\Desktop\LTI_training\CSharp\DAY1\prjFirstApplication\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.genruntimeconfig.cache
